@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+
+    <!-- For Appbar -->
+    <string name="action_about">About</string>
+
+    <!-- app content -->
+    <string name="nanodegreeApps">My Nanodegree Apps!</string>
+    <string name="app1" translatable="false">Spotify Streamer</string>
+    <string name="app2" translatable="false">Football Scores App</string>
+    <string name="app3" translatable="false">Library App</string>
+    <string name="app4" translatable="false">Build It Bigger</string>
+    <string name="app5" translatable="false">XYZ Reader</string>
+    <string name="app6" translatable="false">Capstone: My own APP</string>
+
+    <string name="toastMessage">This button will launch %s!</string>
+    <string name="about">I make this for fun!</string>
+
+</resources>
